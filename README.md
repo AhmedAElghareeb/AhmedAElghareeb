@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedaelghareeb&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedaelghareeb" /> </p>
 
 - 🌱 I’m currently learning **Flutter Framework**
+  
+- 🌱 I’m currently looking for **a Part-Time Job**
 
 - 💬 Ask me about **Dart , Flutter**
 
