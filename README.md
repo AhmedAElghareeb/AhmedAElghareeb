@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter Framework**
 
-- 🤝 I’m looking for **a Full-time Job**
+- 🤝 I’m working as a Flutter Develeper at **Geexar**
 
 - 💬 Ask me about **Dart , Flutter**
 
