@@ -9,7 +9,7 @@
 
 - 🤝 I’m currently working as a Flutter Develeper at **Geexar**
 
-- 💬 Ask me about **Dart , Flutter**
+- 💬 Ask me about **Dart , Flutter, SOLID, OOP**
 
 - 📫 How to reach me **ahmed.elghareeb1166@gmail.com**
 
