@@ -15,6 +15,10 @@
 
 - 📫 How to reach me **ahmed.elghareeb1166@gmail.com**
 
+- 📫 How to reach me **+201156750391**
+
+- 📫 How to reach me **+201064503827**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/AhmedAElghareeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AhmedAElghareeb" height="30" width="40" /></a>  
