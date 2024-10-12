@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **Flutter Framework**
 
-- 👨‍💻 I’m currently learning **Design Patterns**
-
 - 🤝 I’m currently working as a Flutter Develeper at **Geexar**
 
-- 💬 Ask me about **Dart , Flutter, SOLID, OOP**
+- 💬 Ask me about **Dart , Flutter, OOP, SOLID, Design Patterns**
 
 - 📫 How to reach me **ahmed.elghareeb1166@gmail.com**
 
