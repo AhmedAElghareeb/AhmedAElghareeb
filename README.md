@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elghareeb</h1>
-<h3 align="center">Flutter Developer from Egypt</h3>
+<h3 align="center">Flutter Developer 📱</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedaelghareeb&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedaelghareeb" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedaelghareeb" alt="ahmedaelghareeb" /></a> </p>
 
-<img align="center" alt="Coding" src="https://camo.githubusercontent.com/9224a15bbd19965870752df3bb338d0c359778e20ce4ffff5cd08364f63a4470/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<p align="center"> <img alt="Coding" src="https://camo.githubusercontent.com/9224a15bbd19965870752df3bb338d0c359778e20ce4ffff5cd08364f63a4470/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" /> </p>
 
 - 👨‍🎓 I’m currently learning **Flutter Framework**
 - 💫 Fun Fact **Always Learning**
@@ -15,8 +15,8 @@
 - 📱 How to reach me **+201156750391**
 - 📲 How to reach me **+201064503827**
 
-<h3 align="left" tabindex="-1" class="heading-element" dir="auto"> Connect with me </h3>
-<p align="left">
+<h3 align="center" tabindex="-1" class="heading-element" dir="auto"> Connect with me </h3>
+<p align="center">
 <a href="https://github.com/AhmedAElghareeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AhmedAElghareeb" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/ahmed-elghareeb8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-elghareeb8" height="30" width="40" /></a>
 <a href="https://wa.me/+201156750391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="ahmed.a.elgharib" height="30" width="40" /></a>
@@ -24,6 +24,10 @@
 </p>
 
 <h2 tabindex="-1" class="heading-element" dir="auto"> Projects </h2>
+
+<p align="left"> <h3 tabindex="-1" class="heading-element" dir="auto">Lirat Wallet</h3>
+  <p dir="auto">Online Wallet and management system to send money globally in multiple currencies, safely and with low fees in a short time, create a Visa and MasterCard, buy gift cards, and recharge mobile balance.</p>
+  <a href="https://play.google.com/store/apps/details?id=store.lirat.paymoney&hl=en" rel="nofollow"><img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png" alt="Get it on Google Play" height="50" style="max-width: 100%;"></a>
 
 <p align="left"> <h3 tabindex="-1" class="heading-element" dir="auto">Thimar-Driver</h3>
   <p dir="auto">The Delivery App is designed to make it easy for users to have their orders delivered directly to their homes. With a focus on security and reliability, our licensed drivers ensure that your deliveries arrive safely and on time. You can also monitor and manage your delivery requests in real-time.</p>
