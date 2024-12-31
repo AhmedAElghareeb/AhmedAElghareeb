@@ -25,7 +25,7 @@
 
 <h2 tabindex="-1" class="heading-element" dir="auto"> Projects </h2>
 
-<p align="left"> <h3 tabindex="-1" class="heading-element" dir="auto">Lirat Wallet</h3>
+<p align="left"> <h3 tabindex="-1" class="heading-element" dir="auto">Lirat Wallet-محفظة ليرات</h3>
   <p dir="auto">Online Wallet and management system to send money globally in multiple currencies, safely and with low fees in a short time, create a Visa and MasterCard, buy gift cards, and recharge mobile balance.</p>
   <a href="https://play.google.com/store/apps/details?id=store.lirat.paymoney&hl=en" rel="nofollow"><img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png" alt="Get it on Google Play" height="50" style="max-width: 100%;"></a>
 
