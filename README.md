@@ -10,7 +10,7 @@
 
 - 💫 **Always Learning**
 - 🧑‍💼 I’m currently working as a Flutter Develeper at **Geexar**
-- 💬 Ask me about **Dart , Flutter, OOP, SOLID, Design Patterns**
+- 💬 Ask me about **Dart , Flutter, OOP, SOLID, Design Patterns, Third Party Like Payments Gateways, Firebase, Google Maps**
 - 📫 How to reach me **ahmed.elghareeb1166@gmail.com**
 - 📱 How to reach me **+201156750391**
 - 📲 How to reach me **+201064503827**
