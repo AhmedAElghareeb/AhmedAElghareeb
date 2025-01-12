@@ -2,9 +2,7 @@
 I'm Ahmed Elghareeb
 </h1>
 
-<p align="center">
-  <a Junior Flutter Developer </a>
-</p>
+Junior Flutter Developer
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Mobile%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=20"></a>
@@ -15,7 +13,7 @@ I'm Ahmed Elghareeb
 <p align="center"> <img alt="Coding" src="https://camo.githubusercontent.com/9224a15bbd19965870752df3bb338d0c359778e20ce4ffff5cd08364f63a4470/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" /> </p>
 
 - 💫 **Always Learning**
-- 🧑‍💼 I’m currently working as a Flutter Develeper at **Geexar**
+- 🧑‍💼 I’m currently working as Junior Flutter Develeper at **Geexar**
 - 💬 Ask me about **Dart , Flutter, OOP, SOLID, Design Patterns, Third Party Like Payments Gateways, Firebase, Google Maps**
 - 📫 How to reach me **ahmed.elghareeb1166@gmail.com**
 - 📱 How to reach me **+201156750391**
