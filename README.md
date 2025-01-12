@@ -2,8 +2,6 @@
 I'm Ahmed Elghareeb
 </h1>
 
-### Junior Flutter Developer
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Mobile%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=20"></a>
 </p>
@@ -28,6 +26,15 @@ I'm Ahmed Elghareeb
 </p>
 
 <h2 tabindex="-1" class="heading-element" dir="auto"> Projects </h2>
+
+### Whatsapp Direct Messaging
+User-Friendly app that allow you to choose country code of any country and write phone number and with one click you can chatting with this number without need to add it to your contacts numbers.
+- **Key Features:** Awesome ui, Easy to use, Save more efforts.
+- **Value Delivered:** Simplified communication app.
+
+[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
+alt='Get it on Google Play'
+height="50">]()
 
 ### Lirat Wallet-محفظة ليرات
 Lirat Wallet is a cutting-edge fintech application designed to provide a seamless and secure e-wallet experience for individuals and businesses.
