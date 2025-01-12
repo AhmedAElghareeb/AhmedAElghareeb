@@ -1,6 +1,5 @@
-<h1 align="center">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
-I'm Ahmed Elghareeb
-</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Elghareeb</h1>
+<h3 align="center">Junior Flutter Developer Specializing in Powerful Mobile Apps</h3>
 
 <p align="center">
   <a Junior Flutter Developer </a>
