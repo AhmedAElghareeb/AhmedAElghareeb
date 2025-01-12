@@ -25,9 +25,16 @@
 
 <h2 tabindex="-1" class="heading-element" dir="auto"> Projects </h2>
 
-<p align="left"> <h3 tabindex="-1" class="heading-element" dir="auto">Lirat Wallet-محفظة ليرات</h3>
-  <p dir="auto">Online Wallet and management system to send money globally in multiple currencies, safely and with low fees in a short time, create a Visa and MasterCard, buy gift cards, and recharge mobile balance.</p>
-  <a href="https://play.google.com/store/apps/details?id=store.lirat.paymoney&hl=en" rel="nofollow"><img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png" alt="Get it on Google Play" height="50" style="max-width: 100%;"></a>
+### Lirat Wallet-محفظة ليرات
+Lirat Wallet is a cutting-edge fintech application designed to provide a seamless and secure e-wallet experience for individuals and businesses.
+The app offers a wide range of financial services, including multi-currency transactions, advanced security protocols,
+and user-friendly features to cater to modern financial needs.
+- **Key Features:** Secure login, real-time transactions, multilingual support.
+- **Value Delivered:** Simplified financial management with top-tier security.
+
+[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
+alt='Get it on Google Play'
+height="50">](https://play.google.com/store/apps/details?id=store.lirat.paymoney)
 
 <p align="left"> <h3 tabindex="-1" class="heading-element" dir="auto">Thimar-Driver</h3>
   <p dir="auto">The Delivery App is designed to make it easy for users to have their orders delivered directly to their homes. With a focus on security and reliability, our licensed drivers ensure that your deliveries arrive safely and on time. You can also monitor and manage your delivery requests in real-time.</p>
