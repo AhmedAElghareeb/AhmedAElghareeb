@@ -1,4 +1,4 @@
-<h1 align="center">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
+<h1 align="left">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
 I'm Ahmed Elghareeb
 </h1>
 
