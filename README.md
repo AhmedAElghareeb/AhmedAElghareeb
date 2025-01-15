@@ -23,7 +23,8 @@
 <h2 tabindex="-1" class="heading-element" dir="auto"> Projects </h2>
 
 ### Azda - أزدا
-AZDA provides a comprehensive guide to facilitate worker transportation services during the Hajj season. The application allows you to log in and access transportation services between Hajj centers easily and conveniently.
+Azda provides a comprehensive guide to facilitate worker transportation services during the Hajj season. The application allows you to log in and access transportation services between Hajj centers easily and conveniently.
+**I've Worked as a supporter for new updates or requirements**
 - **Key Features:**
 Secure login: Users can log in to the application in a secure manner through their phone number and password.
 Creating departure and reception requests: The application allows users to create departure and reception requests to transport workers to Hajj centers, which facilitates coordination and provision of services to workers.
