@@ -22,6 +22,21 @@
 
 <h2 tabindex="-1" class="heading-element" dir="auto"> Projects </h2>
 
+### Azda - أزدا
+AZDA provides a comprehensive guide to facilitate worker transportation services during the Hajj season. The application allows you to log in and access transportation services between Hajj centers easily and conveniently.
+- **Key Features:**
+Secure login: Users can log in to the application in a secure manner through their phone number and password.
+Creating departure and reception requests: The application allows users to create departure and reception requests to transport workers to Hajj centers, which facilitates coordination and provision of services to workers.
+Order History: Users can track the status of orders, view order details, and get information about expected arrival time, ensuring transparency and effective communication.
+
+[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
+alt='Get it on Google Play'
+height="50">](https://play.google.com/store/apps/details?id=sa.azda_v2.app) 
+
+[<img src="https://1000logos.net/wp-content/uploads/2020/08/apple-app-store-logo.jpg"
+alt='Get it on Apple Store'
+height="50">](https://apps.apple.com/eg/app/azda/id6499463779)
+
 ### Whatsapp Direct Messaging
 User-Friendly app that allow you to choose country code of any country and write phone number and with one click you can chatting with this number without need to add it to your contacts numbers.
 - **Key Features:** Awesome ui, Easy to use, Save more efforts.
