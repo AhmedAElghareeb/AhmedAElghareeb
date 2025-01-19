@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elghareeb</h1>
 <h3 align="center">Junior Flutter Developer Specializing in Mobile Apps</h3>
 
-<p align="center"> <img alt="Coding" src="https://camo.githubusercontent.com/9224a15bbd19965870752df3bb338d0c359778e20ce4ffff5cd08364f63a4470/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="400"/> </p>
+<p align="center"> <img alt="Coding" src="https://camo.githubusercontent.com/9224a15bbd19965870752df3bb338d0c359778e20ce4ffff5cd08364f63a4470/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="550"/> </p>
 
 - 💫 **Always Learning**
 - 🧑‍💼 I’m currently working as Junior Flutter Develeper at **Geexar**
@@ -20,7 +20,7 @@
 
 ### Azda - أزدا
 Azda provides a comprehensive guide to facilitate worker transportation services during the Hajj season. The application allows you to log in and access transportation services between Hajj centers easily and conveniently.
-**I've Worked as a supporter for new updates or requirements**
+- **My responsibility:** Full Support for any updates or new requirements .
 - **Key Features:**
 Secure login: Users can log in to the application in a secure manner through their phone number and password.
 Creating departure and reception requests: The application allows users to create departure and reception requests to transport workers to Hajj centers, which facilitates coordination and provision of services to workers.
