@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elghareeb</h1>
-<h3 align="center">Junior Flutter Developer Specializing in Powerful Mobile Apps</h3>
+<h3 align="center">Junior Flutter Developer Specializing in Mobile Apps</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedaelghareeb" alt="ahmedaelghareeb" /></a> </p>
-
-<p align="center"> <img alt="Coding" src="https://camo.githubusercontent.com/9224a15bbd19965870752df3bb338d0c359778e20ce4ffff5cd08364f63a4470/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" /> </p>
+<p align="center"> <img alt="Coding" src="https://camo.githubusercontent.com/9224a15bbd19965870752df3bb338d0c359778e20ce4ffff5cd08364f63a4470/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="400"/> </p>
 
 - 💫 **Always Learning**
 - 🧑‍💼 I’m currently working as Junior Flutter Develeper at **Geexar**
@@ -12,12 +10,10 @@
 - 📱 How to reach me **+201156750391**
 - 📲 How to reach me **+201064503827**
 
-<h3 align="center" tabindex="-1" class="heading-element" dir="auto"> Connect with me </h3>
-<p align="center">
-<a href="https://github.com/AhmedAElghareeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AhmedAElghareeb" height="30" width="40" /></a>  
+<h3 align="left" tabindex="-1" class="heading-element" dir="auto"> Connect with me </h3>
+<p align="left">
 <a href="https://linkedin.com/in/ahmed-elghareeb8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-elghareeb8" height="30" width="40" /></a>
 <a href="https://wa.me/+201156750391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="ahmed.a.elgharib" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed.a.elgharib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedelghareeb" height="30" width="40" /></a>
 </p>
 
 <h2 tabindex="-1" class="heading-element" dir="auto"> Projects </h2>
