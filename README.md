@@ -66,28 +66,32 @@ User-Friendly app that allow you to choose country code of any country and write
 alt='Get it on Google Play'
 height="50">](https://play.google.com/store/apps/details?id=com.ahmedaelghareeb.whatsapp_messaging)
 
-<p align="left"> <h3 tabindex="-1" class="heading-element" dir="auto">Thimar-Driver</h3>
-  <p dir="auto">The Delivery App is designed to make it easy for users to have their orders delivered directly to their homes. With a focus on security and reliability, our licensed drivers ensure that your deliveries arrive safely and on time. You can also monitor and manage your delivery requests in real-time.</p>
-  <a href="https://github.com/AhmedAElghareeb/Thimar_Driver" rel="nofollow"><img src="https://camo.githubusercontent.com/d836718b226b3b053c3b7256e3953487f04e0307c12b2853f58c8f4280a335d9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f343030302f312a3848487067584a6b63366a5153694e543432456942672e706e67" alt="Get it on Github" height="50" data-canonical-src="https://miro.medium.com/max/4000/1*8HHpgXJkc6jQSiNT42EiBg.png" style="max-width: 100%;">
+### Hadramout Hamza
+A multivendor web application to serve restaurants’ customers, Designed and created app database using Firebase database, Responsive web app with Desktop/Mobile layout support.
 
-<p align="left"> <h3 tabindex="-1" class="heading-element" dir="auto">Hadramout Hamza</h3>
-  <p dir="auto">A multivendor web application to serve restaurants’ customers, Designed and created app database using Firebase database, Responsive web app with Desktop/Mobile layout support.
-* Customers website -->
+**Customers website:**
 - Browse restaurant’s menu and its sections
 - Add selected meals to cart
 - Custom ordering system that supports scheduling orders for delivery or table reservations at branches.
-* Admin dashboard -->
+
+**Admin dashboard:**
 - Add/Manage menu sections and meals
 - Accept/Decline customers’ orders
 - Custom order conformation system
 - New order notification
-- Special offers and discount system</p>
-  <a href="https://hadramout-hamza.com" rel="nofollow"><img src="https://hadramout-hamza.com/splash/img/dark-1x.png" alt="Check Website" height="50" style="max-width: 100%;"></a>
+- Special offers and discount system
 
-<p align="left"> <h3 tabindex="-1" class="heading-element" dir="auto">Thimar-Client</h3>
-  <p dir="auto">Thimar is an ECommerce application that specializes in selling fresh fruits and vegetables across Saudi Arabia. The app provides a seamless shopping experience with a user-friendly interface, enabling customers to browse, order, and get fresh produce delivered right to their doorstep. The platform also includes an authentication system, ensuring a personalized experience for individual users.</p>
-  <a href="https://play.google.com/store/apps/details?id=com.alalmiya.thamra&hl=ar" rel="nofollow"><img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png" alt="Get it on Google Play" height="50" style="max-width: 100%;"></a>
+<a href="https://hadramout-hamza.com" rel="nofollow"><img src="https://hadramout-hamza.com/splash/img/dark-1x.png" alt="Check Website" height="70" width="180" style="max-width: 100%;"></a>
 
+### Thimar-Driver
+The Delivery App is designed to make it easy for users to have their orders delivered directly to their homes. With a focus on security and reliability, our licensed drivers ensure that your deliveries arrive safely and on time. You can also monitor and manage your delivery requests in real-time.
+
+<a href="https://github.com/AhmedAElghareeb/Thimar_Driver" rel="nofollow"><img src="https://camo.githubusercontent.com/d836718b226b3b053c3b7256e3953487f04e0307c12b2853f58c8f4280a335d9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f343030302f312a3848487067584a6b63366a5153694e543432456942672e706e67" alt="Get it on Github" height="50" data-canonical-src="https://miro.medium.com/max/4000/1*8HHpgXJkc6jQSiNT42EiBg.png" style="max-width: 100%;">
+
+### Thimar-Client
+Thimar is an Ecommerce application that specializes in selling fresh fruits and vegetables across Saudi Arabia. The app provides a seamless shopping experience with a user-friendly interface, enabling customers to browse, order, and get fresh produce delivered right to their doorstep. The platform also includes an authentication system, ensuring a personalized experience for individual users.
+
+<a href="https://play.google.com/store/apps/details?id=com.alalmiya.thamra&hl=ar" rel="nofollow"><img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png" alt="Get it on Google Play" height="50" style="max-width: 100%;"></a>
 
 <h2 tabindex="-1" class="heading-element" dir="auto"> Languages and Tools </h2>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
