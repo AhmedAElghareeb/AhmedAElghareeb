@@ -5,7 +5,6 @@
 
 - 💫 **Always Learning**
 - 🏤 I’m currently working as Junior Flutter Develeper at **Geexar**
-- 🚗 Currently working on UFFO-Taxi App "New Challenge".
 - 💬 Ask me about **Dart , Flutter, OOP, SOLID, Design Patterns, Third Party Like Payments Gateways, Firebase, Google Maps**
 - 📫 How to reach me **ahmed.elghareeb1166@gmail.com**
 - 📱 How to reach me **+201156750391**
