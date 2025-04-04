@@ -56,7 +56,7 @@ and user-friendly features to cater to modern financial needs.
 alt='Get it on Google Play'
 height="50">](https://play.google.com/store/apps/details?id=store.lirat.paymoney)
 
-### Whatsapp Direct Messaging
+### Direct Chatting
 User-Friendly app that allow you to choose country code of any country and write phone number and with one click you can chatting with this number without need to add it to your contacts numbers.
 
 - **Key Features:** Awesome ui, Easy to use, Save more efforts.
