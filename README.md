@@ -20,6 +20,22 @@
 
 <h2 tabindex="-1" class="heading-element" dir="auto"> Projects </h2>
 
+### UFOO Driver
+UFOO Driver App – Drive. Earn. Evolve.
+
+Step into the future of ride-hailing with UFOO Driver, the ultimate driving companion built for professionals in Saudi Arabia. Whether you're starting your journey or growing your income, UFOO equips you with everything you need to succeed on the road.
+
+- 🔐 **Key Highlights:** 
+🚘 Smart Ride Management, 🗺️ Interactive Map Interface, 💳 Transparent Earnings Dashboard, 📄 Seamless Onboarding, 📞 Secure Rider Communication, 🔒 Data Privacy & Protection, 🧾 Profile & Vehicle Management.
+
+[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
+alt='Get it on Google Play'
+height="50">]() 
+
+[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
+alt='Get it on Apple Store'
+height="50">]()
+
 ### Azda - أزدا
 Azda provides a comprehensive guide to facilitate worker transportation services during the Hajj season. The application allows you to log in and access transportation services between Hajj centers easily and conveniently.
 
