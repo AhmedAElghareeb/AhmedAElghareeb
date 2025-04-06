@@ -50,20 +50,6 @@ height="50">]()
 alt='Get it on Apple Store'
 height="50">]()
 
-### Azda - أزدا
-Azda provides a comprehensive guide to facilitate worker transportation services during the Hajj season. The application allows you to log in and access transportation services between Hajj centers easily and conveniently.
-
-- **Key Features:** Secure login, Creating departure and reception requests, Order History.
-- **Value Delivered:** Travel and Local.
-
-[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
-alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=sa.azda_v2.app) 
-
-[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
-alt='Get it on Apple Store'
-height="50">](https://apps.apple.com/eg/app/azda/id6499463779)
-
 ### P2P-Syria
 P2P Syria is a financial management system aims to help users manage their financial transactions in a safe and fast manner, as internal transfers between users within the system, as well as withdrawal and deposit operations, can be carried out at any time and place in different currencies and in multiple ways depending on the country to which the user belongs.
 
