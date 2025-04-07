@@ -21,12 +21,25 @@
 <h2 tabindex="-1" class="heading-element" dir="auto"> Projects </h2>
 
 ### UFOO Driver
-UFOO Driver App – Drive. Earn. Evolve.
+UFOO Driver App – Drive. Earn. Evolve,
 
 Step into the future of ride-hailing with UFOO Driver, the ultimate driving companion built for professionals in Saudi Arabia. Whether you're starting your journey or growing your income, UFOO equips you with everything you need to succeed on the road.
 
-- 🔐 **Key Highlights:** 
-🚘 Smart Ride Management, 🗺️ Interactive Map Interface, 💳 Transparent Earnings Dashboard, 📄 Seamless Onboarding, 📞 Secure Rider Communication, 🔒 Data Privacy & Protection, 🧾 Profile & Vehicle Management.
+- **✨ Key Features:** 
+
+🚘 Smart Ride Management, 
+
+🗺️ Interactive Map Interface, 
+
+💳 Transparent Earnings Dashboard, 
+
+📄 Seamless Onboarding, 
+
+📞 Secure Rider Communication, 
+
+🔒 Data Privacy & Protection, 
+
+🧾 Profile & Vehicle Management.
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
 alt='Get it on Google Play'
@@ -37,10 +50,23 @@ alt='Get it on Apple Store'
 height="50">]()
 
 ### Gebal Elrawasy - الجبال الرواسي
-This application provides a comprehensive guide to facilitate worker transportation services during the Hajj season. The application allows you to log in and access transportation services between Hajj centers easily and conveniently.
+🚍 Hajj Transportation Guide App,
 
-- **Key Features:** Secure login, Multi users with differents views, Orders History.
-- **Value Delivered:** Travel and Local.
+This application provides a comprehensive guide to facilitate worker transportation services during the Hajj season. It enables users to log in securely and access transportation between Hajj centers with ease and convenience.
+
+- **✨ Key Features:** 
+
+🔐 Secure Login – Ensures user authentication and data protection
+
+👥 Multi-User Access – Different views and roles based on user type (e.g. Housing Supervisor, Workers Supervisor, Center Head)
+
+📜 Orders History – View previous transportation orders and track service history
+
+- **🎯 Value Delivered:** 
+
+✈️ Travel & Mobility – Simplifies movement between Hajj sites for workers
+
+🌍 Local Convenience – Tailored for use within Hajj locations, improving service logistics
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
 alt='Get it on Google Play'
@@ -51,32 +77,66 @@ alt='Get it on Apple Store'
 height="50">]()
 
 ### P2P-Syria
-P2P Syria is a financial management system aims to help users manage their financial transactions in a safe and fast manner, as internal transfers between users within the system, as well as withdrawal and deposit operations, can be carried out at any time and place in different currencies and in multiple ways depending on the country to which the user belongs.
+💸 P2P Syria – Financial Management System,
 
-- **Key Features:** Secure login, real-time transactions, multilingual support.
-- **Value Delivered:** Financial Management.
+P2P Syria is a robust financial management platform designed to help users handle their financial transactions securely and efficiently. The system supports internal transfers, withdrawals, and deposits at any time and from anywhere. It accommodates multiple currencies and transfer methods, tailored to each user's country.
+
+- **✨ Key Features:**
+
+🔐 Secure Login – User authentication ensures safe access to funds
+
+⚡ Real-Time Transactions – Instantly send and receive money between users
+
+🌐 Multilingual Support – Accessible in multiple languages for global reach
+
+- **🎯 Value Delivered:**
+
+💼 Financial Management – Full control over transactions, balances, and transfer options
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
 alt='Get it on Google Play'
 height="50">](https://play.google.com/store/apps/details?id=com.p2psyria.app)
 
 ### Lirat Wallet-محفظة ليرات
-Lirat Wallet is a cutting-edge fintech application designed to provide a seamless and secure e-wallet experience for individuals and businesses.
-The app offers a wide range of financial services, including multi-currency transactions, advanced security protocols,
-and user-friendly features to cater to modern financial needs.
+👛 Lirat Wallet – Modern Fintech E-Wallet,
 
-- **Key Features:** Secure login, real-time transactions, multilingual support.
-- **Value Delivered:** Simplified financial management with top-tier security.
+Lirat Wallet is a cutting-edge fintech application built to deliver a seamless and secure e-wallet experience for both individuals and businesses. It provides a suite of powerful financial services including multi-currency transactions, enterprise-grade security protocols, and an intuitive user interface that meets today’s digital finance expectations.
+
+- **✨ Key Features:**
+
+🔐 Secure Login – Protects user accounts with modern authentication
+
+⚡ Real-Time Transactions – Fast and reliable money transfers across currencies
+
+🌍 Multilingual Support – Designed for diverse users around the world
+
+- **🎯 Value Delivered:** 
+
+🧾 Simplified Financial Management – Easily manage funds, transfers, and accounts
+
+🛡️ Top-Tier Security – Advanced protection for sensitive financial operations
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
 alt='Get it on Google Play'
 height="50">](https://play.google.com/store/apps/details?id=store.lirat.paymoney)
 
 ### Direct Chatting
-User-Friendly app that allow you to choose country code of any country and write phone number and with one click you can chatting with this number without need to add it to your contacts numbers.
 
-- **Key Features:** Awesome ui, Easy to use, Save more efforts.
-- **Value Delivered:** Communication.
+💬 Instant Chat Launcher – Message Without Saving Contacts,
+
+A user-friendly app that allows you to quickly select a country code, enter any phone number, and start chatting instantly — all without needing to save the number in your contacts. Perfect for quick conversations or temporary chats.
+
+- **✨ Key Features:** 
+
+🎨 Awesome UI – Clean and modern interface for a smooth experience
+
+🚀 Easy to Use – Just select, type, and chat — no extra steps
+
+💡 Saves Effort – No need to clutter your contacts list with temporary numbers
+
+- **🎯 Value Delivered:** 
+
+📞 Communication – Start WhatsApp chats instantly with anyone, anywhere
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
 alt='Get it on Google Play'
