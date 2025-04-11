@@ -20,8 +20,8 @@
 
 <h2 tabindex="-1" class="heading-element" dir="auto"> Projects </h2>
 
-### UFOO Driver
-UFOO Driver App – Drive. Earn. Evolve,
+### UFOO Driver 🚕
+🚗 UFOO Driver App – Drive. Earn. Evolve,
 
 Step into the future of ride-hailing with UFOO Driver, the ultimate driving companion built for professionals in Saudi Arabia. Whether you're starting your journey or growing your income, UFOO equips you with everything you need to succeed on the road.
 
@@ -49,7 +49,7 @@ height="50">](https://play.google.com/store/apps/details?id=com.ufoDriver.app)
 alt='Get it on Apple Store'
 height="50">]()
 
-### Gebal Elrawasy - الجبال الرواسي
+### Gebal Elrawasy - الجبال الرواسي ✈️
 🚍 Hajj Transportation Guide App,
 
 This application provides a comprehensive guide to facilitate worker transportation services during the Hajj season. It enables users to log in securely and access transportation between Hajj centers with ease and convenience.
@@ -76,7 +76,7 @@ height="50">](https://play.google.com/store/apps/details?id=sa.gebalElrwasay.app
 alt='Get it on Apple Store'
 height="50">]()
 
-### P2P-Syria
+### P2P-Syria 💰
 💸 P2P Syria – Financial Management System,
 
 P2P Syria is a robust financial management platform designed to help users handle their financial transactions securely and efficiently. The system supports internal transfers, withdrawals, and deposits at any time and from anywhere. It accommodates multiple currencies and transfer methods, tailored to each user's country.
@@ -97,7 +97,7 @@ P2P Syria is a robust financial management platform designed to help users handl
 alt='Get it on Google Play'
 height="50">](https://play.google.com/store/apps/details?id=com.p2psyria.app)
 
-### Lirat Wallet-محفظة ليرات
+### Lirat Wallet-محفظة ليرات 💰
 👛 Lirat Wallet – Modern Fintech E-Wallet,
 
 Lirat Wallet is a cutting-edge fintech application built to deliver a seamless and secure e-wallet experience for both individuals and businesses. It provides a suite of powerful financial services including multi-currency transactions, enterprise-grade security protocols, and an intuitive user interface that meets today’s digital finance expectations.
@@ -120,7 +120,7 @@ Lirat Wallet is a cutting-edge fintech application built to deliver a seamless a
 alt='Get it on Google Play'
 height="50">](https://play.google.com/store/apps/details?id=store.lirat.paymoney)
 
-### Direct Chatting
+### Direct Chatting 
 
 💬 Instant Chat Launcher – Message Without Saving Contacts,
 
@@ -143,29 +143,40 @@ alt='Get it on Google Play'
 height="50">](https://play.google.com/store/apps/details?id=com.ahmedaelghareeb.whatsapp_messaging)
 
 ### Hadramout Hamza
-A multivendor web application to serve restaurants’ customers, Designed and created app database using Firebase database, Responsive web app with Desktop/Mobile layout support.
 
-- **Customers website:** Browse restaurant’s menu and its sections, Add selected meals to cart, Custom ordering system that supports scheduling orders for delivery or table reservations at branches.
+Multivendor Restaurant Web Application 🥘
 
-- **Admin dashboard:** Add/Manage menu sections and meals, Accept/Decline customers’ orders, Custom order conformation system, New order notification, Special offers and discount system.
-  
-- **Value Delivered:** Reservations and More.
+Designed and developed a responsive multivendor web application to enhance the customer experience for a chain of restaurants. The application supports both desktop and mobile layouts and includes two key interfaces: a customer-facing website and an admin dashboard.
+
+- **Customer Website**: Enabled users to browse dynamic restaurant menus and categorized sections, add meals to a shopping cart, and place customized orders. Integrated advanced ordering features such as delivery scheduling and in-branch table reservations.
+
+- **Admin Dashboard**: Built a comprehensive admin panel for restaurant managers to manage menu sections and meal items, handle incoming orders with approval/decline workflows, and manage a custom order confirmation system. Included real-time notifications for new orders, and tools to launch special offers and discounts.
+
+- **Key Impact**: Streamlined the ordering and reservation process across multiple branches, enhancing operational efficiency and improving customer satisfaction.
 
 <a href="https://hadramout-hamza.com" rel="nofollow"><img src="https://hadramout-hamza.com/splash/img/dark-1x.png" alt="Check Website" height="70" width="180" style="max-width: 100%;"></a>
 
-### Thimar-Driver
-The Delivery App is designed to make it easy for users to have their orders delivered directly to their homes. With a focus on security and reliability, our licensed drivers ensure that your deliveries arrive safely and on time. You can also monitor and manage your delivery requests in real-time.
+### Thimar Driver – Delivery Management Mobile Application
+Internship Project | Al Almiya Al Hura
 
-- **Key Features:** Awesome ui, Easy to use, Secure Login.
-- **Value Delivered:** Delivery app.
+Contributed to the development of a mobile application tailored for licensed delivery drivers, designed to complement the Thimar e-commerce platform. The app streamlines the order fulfillment process by enabling drivers to efficiently manage deliveries, update order statuses, and ensure timely drop-offs.
+
+- **Driver Features**: Implemented features for real-time order tracking, delivery route navigation, and status updates (e.g., picked up, en route, delivered), helping ensure smooth coordination between the customer and delivery personnel.
+
+- **Operational Efficiency**: Improved communication between drivers and backend systems, reducing delays and increasing overall delivery reliability for the Thimar customer base.
 
 <a href="https://github.com/AhmedAElghareeb/Thimar_Driver" rel="nofollow"><img src="https://camo.githubusercontent.com/d836718b226b3b053c3b7256e3953487f04e0307c12b2853f58c8f4280a335d9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f343030302f312a3848487067584a6b63366a5153694e543432456942672e706e67" alt="Get it on Github" height="50" data-canonical-src="https://miro.medium.com/max/4000/1*8HHpgXJkc6jQSiNT42EiBg.png" style="max-width: 100%;">
 
-### Thimar-Client
-Thimar is an Ecommerce application that specializes in selling fresh fruits and vegetables across Saudi Arabia. The app provides a seamless shopping experience with a user-friendly interface, enabling customers to browse, order, and get fresh produce delivered right to their doorstep. The platform also includes an authentication system, ensuring a personalized experience for individual users.
+### Thimar – Mobile E-commerce Application
+Internship Project | Al Almiya Al Hura
 
-- **Key Features:** Awesome ui, Easy to use, Secure Login.
-- **Value Delivered:** Shopping app, Tracking orders.
+Contributed to the development of a mobile e-commerce application designed to simplify the shopping experience for essential household items. The app enables users to browse and order a wide range of high-quality groceries—including fresh fruits, vegetables, and meats—directly from their smartphones.
+
+- **User Features**: Developed intuitive shopping flows, enabling users to seamlessly browse product categories, add items to a cart, and place orders for home delivery.
+
+- **UX-Focused Design**: Focused on delivering a clean, responsive, and user-friendly interface to enhance usability and customer retention.
+
+- **Key Impact**: Helped expand the client’s digital presence and improve accessibility to daily essentials for customers through a reliable and convenient mobile platform.
 
 <a href="https://play.google.com/store/apps/details?id=com.alalmiya.thamra&hl=ar" rel="nofollow"><img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png" alt="Get it on Google Play" height="50" style="max-width: 100%;"></a>
 
