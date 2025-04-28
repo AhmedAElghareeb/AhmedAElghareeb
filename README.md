@@ -5,7 +5,7 @@
 
 - 💫 **Always Learning**
 - 🏤 I’m currently working as Junior Flutter Develeper at **Geexar**
-- 💬 Ask me about **Dart , Flutter, OOP, SOLID, Design Patterns, Third Party Like Payments Gateways, Firebase, Google Maps**
+- 💬 Ask me about **Dart , Flutter, OOP, SOLID, Design Patterns**
 - 📫 How to reach me **ahmed.elghareeb1166@gmail.com**
 - 📱 How to reach me **+201156750391**
 - 📲 How to reach me **+201064503827**
@@ -21,25 +21,14 @@
 <h2 tabindex="-1" class="heading-element" dir="auto"> Projects </h2>
 
 ### UFOO Driver 🚕
-🚗 UFOO Driver App – Drive. Earn. Evolve,
+
+UFOO Driver App – Drive. Earn. Evolve,
 
 Step into the future of ride-hailing with UFOO Driver, the ultimate driving companion built for professionals in Saudi Arabia. Whether you're starting your journey or growing your income, UFOO equips you with everything you need to succeed on the road.
 
-- **✨ Key Features:** 
-
-🚘 Smart Ride Management, 
-
-🗺️ Interactive Map Interface, 
-
-💳 Transparent Earnings Dashboard, 
-
-📄 Seamless Onboarding, 
-
-📞 Secure Rider Communication, 
-
-🔒 Data Privacy & Protection, 
-
-🧾 Profile & Vehicle Management.
+- **✨ Key Features:**
+ 
+Smart Ride Management, Interactive Map Interface, Transparent Earnings Dashboard, Seamless Onboarding, Secure Rider Communication, Data Privacy & Protection, Profile & Vehicle Management.
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
 alt='Get it on Google Play'
@@ -50,23 +39,24 @@ alt='Get it on Apple Store'
 height="50">]()
 
 ### Gebal Elrawasy - الجبال الرواسي ✈️
-🚍 Hajj Transportation Guide App,
+
+Hajj Transportation Guide App,
 
 This application provides a comprehensive guide to facilitate worker transportation services during the Hajj season. It enables users to log in securely and access transportation between Hajj centers with ease and convenience.
 
 - **✨ Key Features:** 
 
-🔐 Secure Login – Ensures user authentication and data protection
+Secure Login – Ensures user authentication and data protection
 
-👥 Multi-User Access – Different views and roles based on user type (e.g. Housing Supervisor, Workers Supervisor, Center Head)
+Multi-User Access – Different views and roles based on user type (e.g. Housing Supervisor, Workers Supervisor, Center Head)
 
-📜 Orders History – View previous transportation orders and track service history
+Orders History – View previous transportation orders and track service history
 
 - **🎯 Value Delivered:** 
 
-✈️ Travel & Mobility – Simplifies movement between Hajj sites for workers
+Travel & Mobility – Simplifies movement between Hajj sites for workers
 
-🌍 Local Convenience – Tailored for use within Hajj locations, improving service logistics
+Local Convenience – Tailored for use within Hajj locations, improving service logistics
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
 alt='Get it on Google Play'
@@ -77,52 +67,52 @@ alt='Get it on Apple Store'
 height="50">]()
 
 ### P2P-Syria 💰
-💸 P2P Syria – Financial Management System,
+P2P Syria – Financial Management System,
 
 P2P Syria is a robust financial management platform designed to help users handle their financial transactions securely and efficiently. The system supports internal transfers, withdrawals, and deposits at any time and from anywhere. It accommodates multiple currencies and transfer methods, tailored to each user's country.
 
 - **✨ Key Features:**
 
-🔐 Secure Login – User authentication ensures safe access to funds
+Secure Login – User authentication ensures safe access to funds
 
-⚡ Real-Time Transactions – Instantly send and receive money between users
+Real-Time Transactions – Instantly send and receive money between users
 
-🌐 Multilingual Support – Accessible in multiple languages for global reach
+Multilingual Support – Accessible in multiple languages for global reach
 
 - **🎯 Value Delivered:**
 
-💼 Financial Management – Full control over transactions, balances, and transfer options
+Financial Management – Full control over transactions, balances, and transfer options
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
 alt='Get it on Google Play'
 height="50">](https://play.google.com/store/apps/details?id=com.p2psyria.app)
 
 ### Lirat Wallet-محفظة ليرات 💰
-👛 Lirat Wallet – Modern Fintech E-Wallet,
+Lirat Wallet – Modern Fintech E-Wallet,
 
 Lirat Wallet is a cutting-edge fintech application built to deliver a seamless and secure e-wallet experience for both individuals and businesses. It provides a suite of powerful financial services including multi-currency transactions, enterprise-grade security protocols, and an intuitive user interface that meets today’s digital finance expectations.
 
 - **✨ Key Features:**
 
-🔐 Secure Login – Protects user accounts with modern authentication
+Secure Login – Protects user accounts with modern authentication
 
-⚡ Real-Time Transactions – Fast and reliable money transfers across currencies
+Real-Time Transactions – Fast and reliable money transfers across currencies
 
-🌍 Multilingual Support – Designed for diverse users around the world
+Multilingual Support – Designed for diverse users around the world
 
 - **🎯 Value Delivered:** 
 
-🧾 Simplified Financial Management – Easily manage funds, transfers, and accounts
+Simplified Financial Management – Easily manage funds, transfers, and accounts
 
-🛡️ Top-Tier Security – Advanced protection for sensitive financial operations
+Top-Tier Security – Advanced protection for sensitive financial operations
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
 alt='Get it on Google Play'
 height="50">](https://play.google.com/store/apps/details?id=store.lirat.paymoney)
 
-### Direct Chatting 
+### Direct Chatting 💬
 
-💬 Instant Chat Launcher – Message Without Saving Contacts,
+Instant Chat Launcher – Message Without Saving Contacts,
 
 A user-friendly app that allows you to quickly select a country code, enter any phone number, and start chatting instantly — all without needing to save the number in your contacts. Perfect for quick conversations or temporary chats.
 
