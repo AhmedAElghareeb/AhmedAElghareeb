@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Ahmed Elghareeb</h3>
 <h3 align="center">Junior Flutter Developer</h3>
 
-<p align="center"> <img alt="Coding" src="https://camo.githubusercontent.com/9224a15bbd19965870752df3bb338d0c359778e20ce4ffff5cd08364f63a4470/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="550"/> </p>
+<p align="center"> <img alt="Coding" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" data-canonical-src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="550"/> </p>
 
 - 💫 **Always Learning**
 - 🏤 I’m currently working as Junior Flutter Develeper at **Geexar**
