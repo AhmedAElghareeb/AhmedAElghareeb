@@ -64,7 +64,7 @@ height="50">](https://play.google.com/store/apps/details?id=sa.gebalAlrwasay.app
 
 [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
 alt='Get it on Apple Store'
-height="50">]()
+height="50">](https://apps.apple.com/ca/app/%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%B3%D9%8A/id6744922960)
 
 ### P2P-Syria 💰
 P2P Syria – Financial Management System,
