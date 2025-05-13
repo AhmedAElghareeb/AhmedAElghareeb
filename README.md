@@ -34,9 +34,6 @@ Smart Ride Management, Interactive Map Interface, Transparent Earnings Dashboard
 alt='Get it on Google Play'
 height="50">](https://play.google.com/store/apps/details?id=com.ufoDriver.app) 
 
-[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
-alt='Get it on Apple Store'
-height="50">]()
 
 ### Gebal Elrawasy - الجبال الرواسي ✈️
 
@@ -66,6 +63,7 @@ height="50">](https://play.google.com/store/apps/details?id=sa.gebalAlrwasay.app
 alt='Get it on Apple Store'
 height="50">](https://apps.apple.com/ca/app/%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%B3%D9%8A/id6744922960)
 
+
 ### P2P-Syria 💰
 P2P Syria – Financial Management System,
 
@@ -86,6 +84,7 @@ Financial Management – Full control over transactions, balances, and transfer 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
 alt='Get it on Google Play'
 height="50">](https://play.google.com/store/apps/details?id=com.p2psyria.app)
+
 
 ### Lirat Wallet-محفظة ليرات 💰
 Lirat Wallet – Modern Fintech E-Wallet,
@@ -110,6 +109,7 @@ Top-Tier Security – Advanced protection for sensitive financial operations
 alt='Get it on Google Play'
 height="50">](https://play.google.com/store/apps/details?id=store.lirat.paymoney)
 
+
 ### Direct Chatting 💬
 
 Instant Chat Launcher – Message Without Saving Contacts,
@@ -132,6 +132,7 @@ A user-friendly app that allows you to quickly select a country code, enter any 
 alt='Get it on Google Play'
 height="50">](https://play.google.com/store/apps/details?id=com.ahmedaelghareeb.whatsapp_messaging)
 
+
 ### Hadramout Hamza
 
 Multivendor Restaurant Web Application 🥘
@@ -146,6 +147,7 @@ Designed and developed a responsive multivendor web application to enhance the c
 
 <a href="https://hadramout-hamza.com" rel="nofollow"><img src="https://hadramout-hamza.com/splash/img/dark-1x.png" alt="Check Website" height="70" width="180" style="max-width: 100%;"></a>
 
+
 ### Thimar Driver – Delivery Management Mobile Application
 Internship Project | Al Almiya Al Hura
 
@@ -156,6 +158,7 @@ Contributed to the development of a mobile application tailored for licensed del
 - **Operational Efficiency**: Improved communication between drivers and backend systems, reducing delays and increasing overall delivery reliability for the Thimar customer base.
 
 <a href="https://github.com/AhmedAElghareeb/Thimar_Driver" rel="nofollow"><img src="https://camo.githubusercontent.com/d836718b226b3b053c3b7256e3953487f04e0307c12b2853f58c8f4280a335d9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f343030302f312a3848487067584a6b63366a5153694e543432456942672e706e67" alt="Get it on Github" height="50" data-canonical-src="https://miro.medium.com/max/4000/1*8HHpgXJkc6jQSiNT42EiBg.png" style="max-width: 100%;">
+
 
 ### Thimar – Mobile E-commerce Application
 Internship Project | Al Almiya Al Hura
