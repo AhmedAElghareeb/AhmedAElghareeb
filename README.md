@@ -37,23 +37,21 @@ height="50">](https://play.google.com/store/apps/details?id=com.ufoDriver.app)
 
 ### Gebal Elrawasy - الجبال الرواسي ✈️
 
-Hajj Transportation Guide App,
+Hajj Transportation Guide App
 
-This application provides a comprehensive guide to facilitate worker transportation services during the Hajj season. It enables users to log in securely and access transportation between Hajj centers with ease and convenience.
+Gebal Alrwasay app is an application designed to facilitate worker transportation services during the Hajj season in the Kingdom of Saudi Arabia. It allows users to easily log in and access transportation services between hotels and Hajj centers.
 
-- **✨ Key Features:** 
+- **✨ Key Features:**
 
-Secure Login – Ensures user authentication and data protection
+- Secure Login: Users can log in to the app in a safe and secure manner.
 
-Multi-User Access – Different views and roles based on user type (e.g. Housing Supervisor, Workers Supervisor, Center Head)
+- Create Worker Requests: The app allows users to easily create departure and arrival requests for transporting workers between hotels and Hajj centers through an intuitive and easy-to-use interface.
 
-Orders History – View previous transportation orders and track service history
+- Track Requests: Users can track the status of requests, see the estimated time of arrival, and more.
 
-- **🎯 Value Delivered:** 
+- Multilingual Support: The app supports multiple languages ​to ensure easy access and a pleasant user experience for users of all nationalities.
 
-Travel & Mobility – Simplifies movement between Hajj sites for workers
-
-Local Convenience – Tailored for use within Hajj locations, improving service logistics
+* Note: Gebal Alrwasay app is constantly being updated and improved to provide an excellent user experience for all users.
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
 alt='Get it on Google Play'
