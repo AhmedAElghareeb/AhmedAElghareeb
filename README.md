@@ -34,10 +34,15 @@ Smart Ride Management, Interactive Map Interface, Transparent Earnings Dashboard
 alt='Get it on Google Play'
 height="50">](https://play.google.com/store/apps/details?id=com.ufoDriver.app) 
 
+[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
+alt='Get it on Apple Store'
+height="50">](https://apps.apple.com/eg/app/ufoo-driver/id6748874649)
+
 
 ### Gebal Elrawasy - الجبال الرواسي ✈️
 
 Hajj Transportation Guide App
+
 
 Gebal Alrwasay app is an application designed to facilitate worker transportation services during the Hajj season in the Kingdom of Saudi Arabia. It allows users to easily log in and access transportation services between hotels and Hajj centers.
 
