@@ -19,6 +19,35 @@
 
 <h2 tabindex="-1" class="heading-element" dir="auto"> Projects </h2>
 
+### Quran Kareem
+
+The Holy Quran app is a digital version of the Quran designed with a clean, user-friendly interface, providing an intuitive experience for browsing and reading all chapters of the Quran.
+
+- **✨ Key Features:**
+ 
+  - Browse Quran Chapters:
+    1. Name of the chapter in Arabic.
+    2. Name of the chapter in English.
+    3. Number of verses in the chapter.
+  - Verse Navigation:
+    1. Select any chapter to view its verses, organized into pages.
+    2. Navigate through pages using directional buttons.
+  - Automatic Progress Saving:
+    1. The app automatically saves the last page you accessed, allowing you to resume your reading from where you left off.
+  - Flexible Settings:
+    1. Switch between Arabic and English.
+    2. Privacy Policy
+    3. Terms of Use
+    4. App Information
+- **Experience**
+  
+  - Enjoy a smooth and organized reading experience of the Holy Quran with a design focused on simplicity and clarity.
+
+[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
+alt='Get it on Google Play'
+height="50">](https://play.google.com/store/apps/details?id=com.app.QuraanKareem) 
+
+
 ### UFOO Driver 🚕
 
 UFOO Driver App – Drive. Earn. Evolve,
@@ -183,6 +212,7 @@ Contributed to the development of a mobile e-commerce application designed to si
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedaelghareeb&show_icons=true&locale=en" alt="ahmedaelghareeb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedaelghareeb&" alt="ahmedaelghareeb" /></p>
+
 
 
 
