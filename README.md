@@ -19,6 +19,38 @@
 
 <h2 tabindex="-1" class="heading-element" dir="auto"> Projects </h2>
 
+### Zidcash 💰
+Zidcash – Online Wallet,
+
+Ultimate digital wallet for creating virtual cards, transferring funds, and managing deposits or withdrawals — all in one secure, seamless app.
+
+- 🔑 Key Features:
+
+  - 💼 Secure Login:
+Easily sign in using your email and password — your data is always protected.
+
+  - 💳 Virtual Card Creation
+Instantly generate virtual cards for safe and easy online shopping.
+
+  - 💸 USDT Withdrawals & Deposits
+Enable crypto operations with smooth support for USDT (Tether) transactions.
+
+  - 🔁 P2P Money Transfers
+Send and receive money from friends who use ZID Cash — fast, easy, and secure.
+
+  - 📊 Account Management
+Track your transactions, monitor your balance, and stay on top of your financial activity.
+
+  - 🌍 Multi-Language Support
+ZID Cash speaks your language — enjoy a fully localized experience.
+
+🛡️ ZID Cash gives you the tools to manage your money, your way — securely and globally.
+
+[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
+alt='Get it on Google Play'
+height="50">](https://play.google.com/store/apps/details?id=com.zidCash.app)
+
+
 ### Quran Kareem
 
 The Holy Quran app is a digital version of the Quran designed with a clean, user-friendly interface, providing an intuitive experience for browsing and reading all chapters of the Quran.
