@@ -48,7 +48,7 @@ ZID Cash speaks your language — enjoy a fully localized experience.
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
 alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=com.zidCash.app)
+height="50">](https://play.google.com/store/apps/details?id=com.zidCach.app)
 
 
 ### Quran Kareem
