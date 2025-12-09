@@ -40,7 +40,7 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
 <div align="center">
 
@@ -315,3 +315,4 @@ I'm always open to discussing new **projects**, exploring **creative ideas**, or
   <br/>
   ⭐ with ❤️
 </div>
+
