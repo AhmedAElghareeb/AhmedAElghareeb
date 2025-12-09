@@ -1,250 +1,250 @@
-<h3 align="center">Hi 👋, I'm Ahmed Elghareeb</h3>
-<h3 align="center">Junior Flutter Developer</h3>
-
-<p align="center"> <img alt="Coding" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" data-canonical-src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="550"/> </p>
-
-- 💫 **Always Learning**
-- 🏤 I’m currently working as Junior Flutter Develeper at **Geexar**
-- 💬 Ask me about **Dart , Flutter, OOP, SOLID, Design Patterns**
-- 📫 How to reach me **ahmed.elghareeb1166@gmail.com**
-- 📱 How to reach me **+201156750391** **+201064503827** **+201500029701**
-
-<h2 tabindex="-1" class="heading-element" dir="auto"> Connect with me </h2>
-
-<p align="left">
-<a href="https://linkedin.com/in/ahmed-elghareeb8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-elghareeb8" height="30" width="40" /></a>
-<a href="https://wa.me/+201156750391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="ahmed.a.elgharib" height="30" width="40" /></a>
-</p>
-
-
-<h2 tabindex="-1" class="heading-element" dir="auto"> Projects </h2>
-
-### Zidcash 💰
-Zidcash – Online Wallet,
-
-Ultimate digital wallet for creating virtual cards, transferring funds, and managing deposits or withdrawals — all in one secure, seamless app.
-
-- 🔑 Key Features:
-
-  - 💼 Secure Login:
-Easily sign in using your email and password — your data is always protected.
-
-  - 💳 Virtual Card Creation
-Instantly generate virtual cards for safe and easy online shopping.
-
-  - 💸 USDT Withdrawals & Deposits
-Enable crypto operations with smooth support for USDT (Tether) transactions.
-
-  - 🔁 P2P Money Transfers
-Send and receive money from friends who use ZID Cash — fast, easy, and secure.
-
-  - 📊 Account Management
-Track your transactions, monitor your balance, and stay on top of your financial activity.
-
-  - 🌍 Multi-Language Support
-ZID Cash speaks your language — enjoy a fully localized experience.
-
-🛡️ ZID Cash gives you the tools to manage your money, your way — securely and globally.
-
-[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
-alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=com.zidCach.app)
-
-
-### Quran Kareem
-
-The Holy Quran app is a digital version of the Quran designed with a clean, user-friendly interface, providing an intuitive experience for browsing and reading all chapters of the Quran.
-
-- **✨ Key Features:**
- 
-  - Browse Quran Chapters:
-    1. Name of the chapter in Arabic.
-    2. Name of the chapter in English.
-    3. Number of verses in the chapter.
-  - Verse Navigation:
-    1. Select any chapter to view its verses, organized into pages.
-    2. Navigate through pages using directional buttons.
-  - Automatic Progress Saving:
-    1. The app automatically saves the last page you accessed, allowing you to resume your reading from where you left off.
-  - Flexible Settings:
-    1. Switch between Arabic and English.
-    2. Privacy Policy
-    3. Terms of Use
-    4. App Information
-- **Experience**
+<div align="center">
   
-  - Enjoy a smooth and organized reading experience of the Holy Quran with a design focused on simplicity and clarity.
-
-[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
-alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=com.app.QuraanKareem) 
-
-
-### UFOO Driver 🚕
-
-UFOO Driver App – Drive. Earn. Evolve,
-
-Step into the future of ride-hailing with UFOO Driver, the ultimate driving companion built for professionals in Saudi Arabia. Whether you're starting your journey or growing your income, UFOO equips you with everything you need to succeed on the road.
-
-- **✨ Key Features:**
- 
-Smart Ride Management, Interactive Map Interface, Transparent Earnings Dashboard, Seamless Onboarding, Secure Rider Communication, Data Privacy & Protection, Profile & Vehicle Management.
-
-[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
-alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=com.ufoDriver.app) 
-
-[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
-alt='Get it on Apple Store'
-height="50">](https://apps.apple.com/eg/app/ufoo-driver/id6748874649)
-
-
-### Gebal Elrawasy - الجبال الرواسي ✈️
-
-Hajj Transportation Guide App
-
-
-Gebal Alrwasay app is an application designed to facilitate worker transportation services during the Hajj season in the Kingdom of Saudi Arabia. It allows users to easily log in and access transportation services between hotels and Hajj centers.
-
-- **✨ Key Features:**
-
-- Secure Login: Users can log in to the app in a safe and secure manner.
-
-- Create Worker Requests: The app allows users to easily create departure and arrival requests for transporting workers between hotels and Hajj centers through an intuitive and easy-to-use interface.
-
-- Track Requests: Users can track the status of requests, see the estimated time of arrival, and more.
-
-- Multilingual Support: The app supports multiple languages ​to ensure easy access and a pleasant user experience for users of all nationalities.
-
-* Note: Gebal Alrwasay app is constantly being updated and improved to provide an excellent user experience for all users.
-
-[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
-alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=sa.gebalAlrwasay.app) 
-
-[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
-alt='Get it on Apple Store'
-height="50">](https://apps.apple.com/ca/app/%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%B3%D9%8A/id6744922960)
-
-
-### P2P-Syria 💰
-P2P Syria – Financial Management System,
-
-P2P Syria is a robust financial management platform designed to help users handle their financial transactions securely and efficiently. The system supports internal transfers, withdrawals, and deposits at any time and from anywhere. It accommodates multiple currencies and transfer methods, tailored to each user's country.
-
-- **✨ Key Features:**
-
-Secure Login – User authentication ensures safe access to funds
-
-Real-Time Transactions – Instantly send and receive money between users
-
-Multilingual Support – Accessible in multiple languages for global reach
-
-- **🎯 Value Delivered:**
-
-Financial Management – Full control over transactions, balances, and transfer options
-
-[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
-alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=com.p2psyria.app)
-
-
-### Lirat Wallet-محفظة ليرات 💰
-Lirat Wallet – Modern Fintech E-Wallet,
-
-Lirat Wallet is a cutting-edge fintech application built to deliver a seamless and secure e-wallet experience for both individuals and businesses. It provides a suite of powerful financial services including multi-currency transactions, enterprise-grade security protocols, and an intuitive user interface that meets today’s digital finance expectations.
-
-- **✨ Key Features:**
-
-Secure Login – Protects user accounts with modern authentication
-
-Real-Time Transactions – Fast and reliable money transfers across currencies
-
-Multilingual Support – Designed for diverse users around the world
-
-- **🎯 Value Delivered:** 
-
-Simplified Financial Management – Easily manage funds, transfers, and accounts
-
-Top-Tier Security – Advanced protection for sensitive financial operations
-
-[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
-alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=store.lirat.paymoney)
-
-
-### Direct Chatting 💬
-
-Instant Chat Launcher – Message Without Saving Contacts,
-
-A user-friendly app that allows you to quickly select a country code, enter any phone number, and start chatting instantly — all without needing to save the number in your contacts. Perfect for quick conversations or temporary chats.
-
-- **✨ Key Features:** 
-
-🎨 Awesome UI – Clean and modern interface for a smooth experience
-
-🚀 Easy to Use – Just select, type, and chat — no extra steps
-
-💡 Saves Effort – No need to clutter your contacts list with temporary numbers
-
-- **🎯 Value Delivered:** 
-
-📞 Communication – Start WhatsApp chats instantly with anyone, anywhere
-
-[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
-alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=com.ahmedaelghareeb.whatsapp_messaging)
-
-
-### Hadramout Hamza
-
-Multivendor Restaurant Web Application 🥘
-
-Designed and developed a responsive multivendor web application to enhance the customer experience for a chain of restaurants. The application supports both desktop and mobile layouts and includes two key interfaces: a customer-facing website and an admin dashboard.
-
-- **Customer Website**: Enabled users to browse dynamic restaurant menus and categorized sections, add meals to a shopping cart, and place customized orders. Integrated advanced ordering features such as delivery scheduling and in-branch table reservations.
-
-- **Admin Dashboard**: Built a comprehensive admin panel for restaurant managers to manage menu sections and meal items, handle incoming orders with approval/decline workflows, and manage a custom order confirmation system. Included real-time notifications for new orders, and tools to launch special offers and discounts.
-
-- **Key Impact**: Streamlined the ordering and reservation process across multiple branches, enhancing operational efficiency and improving customer satisfaction.
-
-<a href="https://hadramout-hamza.com" rel="nofollow"><img src="https://hadramout-hamza.com/splash/img/dark-1x.png" alt="Check Website" height="70" width="180" style="max-width: 100%;"></a>
-
-
-### Thimar Driver – Delivery Management Mobile Application
-Internship Project | Al Almiya Al Hura
-
-Contributed to the development of a mobile application tailored for licensed delivery drivers, designed to complement the Thimar e-commerce platform. The app streamlines the order fulfillment process by enabling drivers to efficiently manage deliveries, update order statuses, and ensure timely drop-offs.
-
-- **Driver Features**: Implemented features for real-time order tracking, delivery route navigation, and status updates (e.g., picked up, en route, delivered), helping ensure smooth coordination between the customer and delivery personnel.
-
-- **Operational Efficiency**: Improved communication between drivers and backend systems, reducing delays and increasing overall delivery reliability for the Thimar customer base.
-
-<a href="https://github.com/AhmedAElghareeb/Thimar_Driver" rel="nofollow"><img src="https://camo.githubusercontent.com/d836718b226b3b053c3b7256e3953487f04e0307c12b2853f58c8f4280a335d9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f343030302f312a3848487067584a6b63366a5153694e543432456942672e706e67" alt="Get it on Github" height="50" data-canonical-src="https://miro.medium.com/max/4000/1*8HHpgXJkc6jQSiNT42EiBg.png" style="max-width: 100%;">
-
-
-### Thimar – Mobile E-commerce Application
-Internship Project | Al Almiya Al Hura
-
-Contributed to the development of a mobile e-commerce application designed to simplify the shopping experience for essential household items. The app enables users to browse and order a wide range of high-quality groceries—including fresh fruits, vegetables, and meats—directly from their smartphones.
-
-- **User Features**: Developed intuitive shopping flows, enabling users to seamlessly browse product categories, add items to a cart, and place orders for home delivery.
-
-- **UX-Focused Design**: Focused on delivering a clean, responsive, and user-friendly interface to enhance usability and customer retention.
-
-- **Key Impact**: Helped expand the client’s digital presence and improve accessibility to daily essentials for customers through a reliable and convenient mobile platform.
-
-<a href="https://play.google.com/store/apps/details?id=com.alalmiya.thamra&hl=ar" rel="nofollow"><img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png" alt="Get it on Google Play" height="50" style="max-width: 100%;"></a>
-
-<h2 tabindex="-1" class="heading-element" dir="auto"> Languages and Tools </h2>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedaelghareeb&show_icons=true&locale=en&layout=compact" alt="ahmedaelghareeb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedaelghareeb&show_icons=true&locale=en" alt="ahmedaelghareeb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedaelghareeb&" alt="ahmedaelghareeb" /></p>
-
-
-
-
+# Ahmed Elghareeb
+
+### 🚀 Mid-Level Flutter Developer | Mobile App Architect
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Mobile+Applications;Clean+Architecture+Enthusiast;Fintech+%26+E-commerce+Specialist;3%2B+Years+of+Flutter+Experience)](https://git.io/typing-svg)
+
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="400" alt="Coding Animation"/>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-elghareeb8)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.elghareeb1166@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201156750391)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#featured-projects)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```dart
+class FlutterDeveloper {
+  final String name = "Ahmed Elghareeb";
+  final String role = "Mid-Level Flutter Developer";
+  final String company = "Geexar";
+  final String location = "Egypt 🇪🇬";
+  
+  final List<String> expertise = [
+    "Cross-Platform Mobile Development",
+    "Fintech & E-Wallet Solutions",
+    "E-Commerce Applications",
+    "Clean Architecture & SOLID Principles",
+    "State Management (BLoC, Cubit, Provider)",
+    "RESTful API Integration",
+    "Payment Gateway Integration",
+  ];
+  
+  final Map<String, String> currentFocus = {
+    "learning": "Advanced System Design & Scalability",
+    "building": "High-Performance Flutter Applications",
+    "exploring": "CI/CD & DevOps for Mobile",
+  };
+  
+  String get motto => "Code with purpose, build with passion 🚀";
+}
+<br/>
+🛠️ Technical Arsenal
+<div align="center">
+Core Technologies
+Flutter
+Dart
+Firebase
+
+State Management
+BLoC
+Provider
+GetX
+
+Architecture & Patterns
+Clean Architecture
+MVVM
+SOLID
+Design Patterns
+
+Backend & Database
+REST API
+GraphQL
+SQLite
+Hive
+
+Tools & Platforms
+Git
+GitHub
+Figma
+Postman
+VS Code
+Android Studio
+
+</div><br/>
+🏆 Featured Projects
+<div align="center">
+💰 Fintech & E-Wallet Solutions
+</div><table> <tr> <td width="50%">
+💳 Zidcash – Digital Wallet
+Your ultimate digital wallet for secure financial management
+
+🔧 Tech Stack: Flutter, Dart, BLoC, REST API, Secure Auth
+
+✨ Key Features:
+
+💳 Virtual card generation for online shopping
+💱 USDT cryptocurrency operations
+🔁 P2P instant money transfers
+📊 Real-time transaction tracking
+🌍 Multi-language support
+🔐 Enterprise-grade security
+<p> <a href="https://play.google.com/store/apps/details?id=com.zidCach.app"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a> </p></td> <td width="50%">
+💱 Lirat Wallet – Fintech E-Wallet
+Modern fintech solution for individuals and businesses
+
+🔧 Tech Stack: Flutter, Dart, Clean Architecture, BLoC
+
+✨ Key Features:
+
+🔄 Multi-currency transactions
+🛡️ Enterprise-grade security protocols
+📱 Intuitive user interface
+⚡ Real-time transaction processing
+🌐 Global accessibility
+<p> <a href="https://play.google.com/store/apps/details?id=store.lirat.paymoney"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a> </p></td> </tr><tr> <td width="50%">
+💸 P2P Syria – Financial Platform
+Secure cross-border financial management system
+
+🔧 Tech Stack: Flutter, Dart, BLoC, Multi-currency API
+
+✨ Key Features:
+
+🔐 Secure authentication system
+💵 Multi-currency support
+🔄 Internal transfers & withdrawals
+🌍 Region-specific transfer methods
+📈 Real-time balance tracking
+<p> <a href="https://play.google.com/store/apps/details?id=com.p2psyria.app"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a> </p></td> <td width="50%">
+📖 Quran Kareem
+Beautiful digital Quran reading experience
+
+🔧 Tech Stack: Flutter, Dart, Local Storage, Custom UI
+
+✨ Key Features:
+
+📚 Complete Quran with 114 Surahs
+🔖 Auto-save reading progress
+🌙 Arabic & English support
+📱 Clean, intuitive navigation
+📄 Page-by-page reading mode
+<p> <a href="https://play.google.com/store/apps/details?id=com.app.QuraanKareem"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a> </p></td> </tr> </table><div align="center">
+🚗 Transportation & Logistics
+</div><table> <tr> <td width="50%">
+🚕 UFOO Driver – Ride-Hailing Platform
+Professional driving companion for Saudi Arabia
+
+🔧 Tech Stack: Flutter, Google Maps, Real-time GPS, BLoC
+
+✨ Key Features:
+
+🗺️ Interactive map interface
+💰 Transparent earnings dashboard
+📱 Smart ride management
+🔔 Real-time notifications
+📞 Secure rider communication
+<p> <a href="https://play.google.com/store/apps/details?id=com.ufoDriver.app"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a> <a href="https://apps.apple.com/eg/app/ufoo-driver/id6748874649"> <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/> </a> </p></td> <td width="50%">
+✈️ Gebal Elrawasy – Hajj Transport
+Streamlined Hajj transportation management
+
+🔧 Tech Stack: Flutter, Dart, REST API, Multi-language
+
+✨ Key Features:
+
+🚌 Worker transport requests
+📍 Real-time tracking
+⏱️ ETA calculations
+🌍 Multi-language support
+📋 Request status management
+<p> <a href="https://play.google.com/store/apps/details?id=sa.gebalAlrwasay.app"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a> <a href="https://apps.apple.com/ca/app/%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%B3%D9%8A/id6744922960"> <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/> </a> </p></td> </tr> </table><div align="center">
+🍽️ E-Commerce & Web Applications
+</div><table> <tr> <td width="50%">
+🥘 Hadramout Hamza – Restaurant Platform
+Multivendor restaurant web application
+
+🔧 Tech Stack: Flutter Web, Responsive Design, REST API
+
+✨ Key Features:
+
+📱 Responsive design (Desktop & Mobile)
+🛒 Advanced cart & ordering system
+📅 Delivery scheduling
+🪑 Table reservations
+🎁 Special offers management
+📊 Admin dashboard
+<p> <a href="https://hadramout-hamza.com"> <img src="https://img.shields.io/badge/Live_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/> </a> </p></td> <td width="50%">
+💬 Direct Chatting
+Instant messaging without saving contacts
+
+🔧 Tech Stack: Flutter, Dart, WhatsApp API
+
+✨ Key Features:
+
+🌍 Country code selection
+📱 Direct WhatsApp messaging
+🎨 Clean, modern UI
+⚡ Zero-contact clutter
+<p> <a href="https://play.google.com/store/apps/details?id=com.ahmedaelghareeb.whatsapp_messaging"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a> </p></td> </tr> </table><div align="center">
+🎓 Internship Projects @ Al Almiya Al Hura
+</div><table> <tr> <td width="50%">
+🛒 Thimar – E-Commerce App
+Mobile shopping for fresh groceries
+
+Role: Flutter Developer Intern
+
+Contributions:
+
+Built intuitive shopping flows
+Developed cart & checkout system
+Created responsive UI components
+<p> <a href="https://play.google.com/store/apps/details?id=com.alalmiya.thamra&hl=ar"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a> </p></td> <td width="50%">
+🚚 Thimar Driver – Delivery App
+Delivery management for drivers
+
+Role: Flutter Developer Intern
+
+Contributions:
+
+Real-time order tracking
+Delivery route navigation
+Status update workflows
+<p> <a href="https://github.com/AhmedAElghareeb/Thimar_Driver"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p></td> </tr> </table>
+📊 GitHub Analytics
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahmedaelghareeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaelghareeb&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" height="180"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedaelghareeb&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff9e64&currStreakLabel=38bdae" width="700"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedaelghareeb&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" width="700"/></div>
+🎯 What I Bring to the Table
+<div align="center">
+💼 Professional Skills	🧠 Soft Skills
+Clean Architecture	Problem Solving
+State Management	Team Collaboration
+API Integration	Communication
+Performance Optimization	Time Management
+Code Review	Continuous Learning
+Unit Testing	Adaptability
+</div>
+📫 Let's Connect
+<div align="center">
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+LinkedIn
+Email
+WhatsApp
+
+📱 Phone Numbers
+Primary	Secondary	Alternate
++20 115 675 0391	+20 106 450 3827	+20 150 002 9701
+</div>
+<div align="center">
+💡 "The best way to predict the future is to create it."
+Visitors
+
+⭐ From Ahmed Elghareeb with ❤️
+
+</div> ```
