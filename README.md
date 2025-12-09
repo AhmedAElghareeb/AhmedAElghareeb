@@ -49,7 +49,7 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
 | **Core** | **Flutter**, **Dart**, **Firebase**, **Shorebird** |
 | **State Management** | **BLoC**, **Cubit** |
 | **Architecture & Patterns** | **Clean Architecture**, MVVM, **SOLID**, Design Patterns |
-| **Backend & Database** | **REST API**, GraphQL, SQLite, Hive |
+| **Backend & Database** | **REST API**, SQLite, Hive, Shared Preferences |
 | **Tools & Platforms** | Git, GitHub, Figma, Postman, VS Code, Android Studio, Intellij |
 
 </div>
