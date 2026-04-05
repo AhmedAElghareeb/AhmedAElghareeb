@@ -29,14 +29,8 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
 * **Clean Architecture** & Adherence to **SOLID Principles**.
 * Designing and implementing **Fintech & E-Wallet Solutions**.
 * Developing large-scale **E-Commerce Applications**.
-* Advanced **State Management** using **BLoC**, **Cubit**.
+* Advanced **State Management** using **BLoC**, **Cubit**, and **Riverpod**.
 * Seamless **RESTful API** Integration and **Payment Gateway** implementation.
-
-### Current Focus
-
-* **Learning:** Deepening knowledge in **Advanced System Design & Scalability**.
-* **Building:** Architecting and optimizing **High-Performance Flutter Applications**.
-* **Exploring:** Implementing robust **CI/CD** and **DevOps** pipelines for mobile development.
 
 ---
 
@@ -47,10 +41,10 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
 | Category | Key Technologies |
 | :--- | :--- |
 | **Core** | **Flutter**, **Dart**, **Firebase**, **Shorebird** |
-| **State Management** | **BLoC**, **Cubit** |
+| **State Management** | **BLoC**, **Cubit**, **Riverpod** |
 | **Architecture & Patterns** | **Clean Architecture**, MVVM, **SOLID**, Design Patterns |
 | **Backend & Database** | **REST API**, SQLite, Hive, Shared Preferences |
-| **Tools & Platforms** | Git, GitHub, Figma, Postman, VS Code, Android Studio, Intellij, AI Tools |
+| **Tools & Platforms** | Git, GitHub, Figma, Postman, Azure DevOps, AI Tools |
 
 </div>
 
@@ -72,8 +66,7 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
       <ul>
         <li>Virtual card generation for online shopping.</li>
         <li>USDT cryptocurrency operations.</li>
-        <li>P2P instant money transfers & real-time transaction tracking.</li>
-        <li>Enterprise-grade security and multi-language support.</li>
+        <li>P2P instant money transfers & real-time tracking.</li>
       </ul>
       <p>
         <a href="https://play.google.com/store/apps/details?id=com.zidCach.app"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a>
@@ -89,7 +82,6 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
       <ul>
         <li>Multi-currency transactions and global accessibility.</li>
         <li>Enterprise-grade security protocols.</li>
-        <li>Intuitive user interface for enhanced user experience.</li>
         <li>Real-time transaction processing.</li>
       </ul>
       <p>
@@ -108,39 +100,54 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
       <ul>
         <li>Secure authentication and multi-currency support.</li>
         <li>Internal transfers & withdrawals.</li>
-        <li>Region-specific transfer methods and real-time balance tracking.</li>
+        <li>Real-time balance tracking.</li>
       </ul>
       <p>
         <a href="https://play.google.com/store/apps/details?id=com.p2psyria.app"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a>
       </p>
     </td>
-    <td width="50%">
-      <br>
-    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
-### 🚗 Transportation & Logistics
+### 🚚 Shipping & Transportation
 
 <table>
   <tr>
     <td width="50%">
-      <h4>🚕 UFOO Driver – Ride-Hailing Platform</h4>
-      *Professional driving companion for Saudi Arabia.*
+      <h4>📦 Geta – Shipping (Client)</h4>
+      *On-demand platform connecting customers with reliable freight carriers.*
       <br><br>
-      **🔧 Tech Stack:** Flutter, Google Maps, Real-time GPS, BLoC
+      **🔧 Tech Stack:** Flutter, Google Maps API, BLoC, REST API
       <br>
       **✨ Key Features:**
       <ul>
-        <li>Interactive map interface and smart ride management.</li>
-        <li>Transparent earnings dashboard.</li>
-        <li>Real-time notifications and secure rider communication.</li>
+        <li>Support for diverse cargo (parcels, furniture, refrigerated goods).</li>
+        <li>Instant automated pricing and transparent fee system.</li>
+        <li>Real-time GPS tracking and secure in-app communication.</li>
       </ul>
       <p>
-        <a href="https://play.google.com/store/apps/details?id=com.ufoDriver.app"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a>
-        <a href="https://apps.apple.com/eg/app/ufoo-driver/id6748874649"> <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/> </a>
+        <a href="https://play.google.com/store/apps/details?id=com.geexar.getauser"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a>
       </p>
     </td>
+    <td width="50%">
+      <h4>🚛 Geta Driver </h4>
+      *Professional utility app for registered freight partners.*
+      <br><br>
+      **🔧 Tech Stack:** Flutter, Dart, Clean Architecture, BLoC
+      <br>
+      **✨ Key Features:**
+      <ul>
+        <li>Smart dispatch system with proximity-based order notifications.</li>
+        <li>Advanced ride management with integrated map navigation.</li>
+        <li>Dynamic availability controls (Online/Offline) and earnings tracking.</li>
+      </ul>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.geexar.getadriver"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h4>✈️ Gebal Elrawasy – Hajj Transport</h4>
       *Streamlined Hajj transportation management system.*
@@ -155,9 +162,34 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
       </ul>
       <p>
         <a href="https://play.google.com/store/apps/details?id=sa.gebalAlrwasay.app"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a>
-        <a href="https://apps.apple.com/ca/app/%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%B3%D9%8A/id6744922960"> <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/> </a>
+        <a href="https://apps.apple.com/ca/app/%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%B3%D9%8I/id6744922960"> <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/> </a>
       </p>
     </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+### 🚕 Ride-Hailing Platforms
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🚕 UFOO Driver – Ride-Hailing</h4>
+      *Professional driving companion for Saudi Arabia.*
+      <br><br>
+      **🔧 Tech Stack:** Flutter, Google Maps, GPS, BLoC
+      <br>
+      **✨ Key Features:**
+      <ul>
+        <li>Interactive map interface and smart ride management.</li>
+        <li>Transparent earnings dashboard and real-time notifications.</li>
+      </ul>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.ufoDriver.app"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a>
+        <a href="https://apps.apple.com/eg/app/ufoo-driver/id6748874649"> <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/> </a>
+      </p>
+    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
@@ -171,19 +203,11 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
       <br><br>
       **🔧 Tech Stack:** Flutter Web, Responsive Design, REST API
       <br>
-      **✨ Key Features:**
-      <ul>
-        <li>Fully responsive design (Desktop & Mobile).</li>
-        <li>Advanced cart, ordering, and delivery scheduling system.</li>
-        <li>Table reservations and comprehensive Admin dashboard.</li>
-      </ul>
       <p>
         <a href="https://hadramout-hamza.com"> <img src="https://img.shields.io/badge/Live_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/> </a>
       </p>
     </td>
-    <td width="50%">
-      <br>
-    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
@@ -197,11 +221,10 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
       <br><br>
       **🔧 Tech Stack:** Flutter, Dart, Local Storage, Custom UI
       <br>
-      **✨ Key Features:**
-      <ul>
-        <li>Complete Quran with 114 Surahs.</li>
-        <li>Auto-save reading progress and page-by-page mode.</li>
-        <li>Arabic & English support with clean, intuitive navigation.</li>
+       <ul>
+        <li>Thoughtfully Designed Reading Experience</li>
+        <li>Flexible & Personalized Settings</li>
+        <li>Simple. Clean. Purposeful</li>
       </ul>
       <p>
         <a href="https://play.google.com/store/apps/details?id=com.app.QuraanKareem"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a>
@@ -213,11 +236,10 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
       <br><br>
       **🔧 Tech Stack:** Flutter, Dart, WhatsApp API
       <br>
-      **✨ Key Features:**
-      <ul>
-        <li>Direct WhatsApp messaging with zero-contact clutter.</li>
-        <li>Country code selection.</li>
-        <li>Clean, modern UI/UX.</li>
+       <ul>
+        <li>Skip the Contact-Saving Hassle</li>
+        <li>Global Reach, Instant Access</li>
+        <li> Lightweight & Fast</li>
       </ul>
       <p>
         <a href="https://play.google.com/store/apps/details?id=com.ahmedaelghareeb.whatsapp_messaging"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a>
@@ -226,7 +248,7 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
   </tr>
 </table>
 
-### 🎓 Internship Showcase @ Al Almiya Al Hura
+### 🎓 Internship Showcase
 
 <table>
   <tr>
@@ -234,14 +256,6 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
       <h4>🛒 Thimar – E-Commerce App</h4>
       *Mobile shopping application for fresh groceries.*
       <br><br>
-      **Role:** Flutter Developer Intern
-      <br>
-      **Contributions:**
-      <ul>
-        <li>Built intuitive shopping flows.</li>
-        <li>Developed comprehensive cart & checkout system.</li>
-        <li>Created responsive UI components.</li>
-      </ul>
       <p>
         <a href="https://play.google.com/store/apps/details?id=com.alalmiya.thamra&hl=ar"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a>
       </p>
@@ -250,28 +264,12 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
       <h4>🚚 Thimar Driver – Delivery App</h4>
       *Driver-side application for delivery management.*
       <br><br>
-      **Role:** Flutter Developer Intern
-      <br>
-      **Contributions:**
-      <ul>
-        <li>Implemented real-time order tracking.</li>
-        <li>Developed delivery route navigation features.</li>
-        <li>Integrated status update workflows.</li>
-      </ul>
       <p>
         <a href="https://github.com/AhmedAElghareeb/Thimar_Driver"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
       </p>
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedaelghareeb&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" width="700" alt="Ahmed's GitHub Activity Graph"/>
-</div>
 
 ---
 
@@ -285,34 +283,26 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
 | State Management | **Team Collaboration** |
 | API Integration | Communication |
 | Performance Optimization | Time Management |
-| Code Review & Unit Testing | Continuous Learning & Adaptability |
 
 </div>
 
 ---
 
 ## 📫 Let's Connect
-
-I'm always open to discussing new **projects**, exploring **creative ideas**, or considering **opportunities** to be part of a forward-thinking team. Feel free to reach out via any of the channels below:
-
-* **[LinkedIn](https://linkedin.com/in/ahmed-elghareeb8)** (Preferred Professional Contact)
-* **Email:** [ahmed.elghareeb1166@gmail.com](mailto:ahmed.elghareeb1166@gmail.com)
-* **WhatsApp:** [+20 115 675 0391](https://wa.me/+201156750391)
-
-| Contact Type | Primary | Secondary |
-| :--- | :--- | :--- |
-| **Phone** | +20 115 675 0391 | +20 106 450 3827 |
-
+<div align="center">
+  
 <br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-elghareeb8)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.elghareeb1166@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201156750391)
+
+</div>
 
 <div align="center">
   💡 *"The best way to predict the future is to create it."*
-  <br/>
-  <br/>
+  <br/><br/>
   <a href="https://github.com/ahmedaelghareeb">
     <img src="https://img.shields.io/badge/Ahmed_Elghareeb-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect with Ahmed Elghareeb on GitHub"/>
   </a>
-  <br/>
-  ⭐ with ❤️
 </div>
-
