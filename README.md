@@ -4,7 +4,7 @@
 
 ### 🚀 Mid-Level Flutter Developer | Mobile App Architect
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Mobile+Applications;Clean+Architecture+Enthusiast;Fintech+%26+E-commerce+Specialist;2%2B+Years+of+Flutter+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Mobile+Applications;Clean+Architecture+Enthusiast;Fintech+%26+E-commerce+Specialist+%26+More;3%2B+Years+of+Flutter+Experience)](https://git.io/typing-svg)
 
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="600" alt="Coding Animation"/>
 
