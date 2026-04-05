@@ -50,7 +50,7 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
 | **State Management** | **BLoC**, **Cubit** |
 | **Architecture & Patterns** | **Clean Architecture**, MVVM, **SOLID**, Design Patterns |
 | **Backend & Database** | **REST API**, SQLite, Hive, Shared Preferences |
-| **Tools & Platforms** | Git, GitHub, Figma, Postman, VS Code, Android Studio, Intellij |
+| **Tools & Platforms** | Git, GitHub, Figma, Postman, VS Code, Android Studio, Intellij | AI Tools |
 
 </div>
 
