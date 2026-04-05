@@ -300,7 +300,7 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
 </div>
 
 <div align="center">
-  💡 *"The best way to predict the future is to create it."*
+  💡 ** The best way to predict the future is to create it **
   <br/><br/>
   <a href="https://github.com/ahmedaelghareeb">
     <img src="https://img.shields.io/badge/Ahmed_Elghareeb-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect with Ahmed Elghareeb on GitHub"/>
