@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me: Architecting Robust Mobile Solutions
 
-I'm **Ahmed Elghareeb**, a **Mid-Level Flutter Developer** specializing in building highly scalable, cross-platform mobile applications. Based in **Egypt 🇪🇬**, I currently apply my expertise at **Geexar**, focusing on delivering high-performance solutions in the **Fintech** and **E-commerce** sectors.
+I'm **Ahmed Elghareeb**, a **Mobile Developer** specializing in building highly scalable, cross-platform mobile applications. Based in **Egypt 🇪🇬**, I currently apply my expertise at **Geexar**, focusing on delivering high-performance solutions in the **Fintech** and **E-commerce** sectors & More.
 
 My core philosophy is: **"Code with purpose, build with passion 🚀"**.
 
