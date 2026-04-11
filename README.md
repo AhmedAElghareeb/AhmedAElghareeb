@@ -162,7 +162,7 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
       </ul>
       <p>
         <a href="https://play.google.com/store/apps/details?id=sa.gebalAlrwasay.app"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/> </a>
-        <a href="https://apps.apple.com/ca/app/%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%B3%D9%8I/id6744922960"> <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/> </a>
+        <a href="https://apps.apple.com/us/app/الجبال-الرواسي/id6744922960"> <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/> </a>
       </p>
     </td>
     <td width="50%"></td>
