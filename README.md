@@ -41,7 +41,7 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
 | Category | Key Technologies |
 | :--- | :--- |
 | **Core** | **Flutter**, **Dart**, **Firebase**, **Shorebird** |
-| **State Management** | **BLoC**, **Cubit**, **Riverpod** |
+| **State Management** | **BLoC**, **Cubit** |
 | **Architecture & Patterns** | **Clean Architecture**, MVVM, **SOLID**, Design Patterns |
 | **Backend & Database** | **REST API**, SQLite, Hive, Shared Preferences |
 | **Tools & Platforms** | Git, GitHub, Figma, Postman, Azure DevOps, AI Tools |
