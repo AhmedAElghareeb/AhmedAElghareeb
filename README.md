@@ -27,9 +27,9 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
 ### Core Expertise
 
 * **Clean Architecture** & Adherence to **SOLID Principles**.
-* Designing and implementing **Fintech & E-Wallet Solutions**.
-* Developing large-scale **E-Commerce Applications**.
-* Advanced **State Management** using **BLoC**, **Cubit**, and **Riverpod**.
+* Designing and implementing **Fintech & Digital E-Wallet Solutions**.
+* Developing large-scale **E-Commerce, Ride-Hailing and Logistics Applications**.
+* Advanced **State Management** using **BLoC**, **Cubit**.
 * Seamless **RESTful API** Integration and **Payment Gateway** implementation.
 
 ---
@@ -42,9 +42,9 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
 | :--- | :--- |
 | **Core** | **Flutter**, **Dart**, **Firebase**, **Shorebird** |
 | **State Management** | **Bloc**, **Cubit** |
-| **Architecture & Patterns** | **Clean Architecture**, MVVM, **SOLID**, Design Patterns |
-| **Backend & Database** | **REST API**, SQLite, Hive, Shared Preferences |
-| **Tools & Platforms** | Git, GitHub, Figma, Postman, Azure DevOps, AI Tools |
+| **Architecture & Patterns** | **Clean & Modular Architecture**, **MVVM**, **SOLID**, **Design Patterns** |
+| **Backend & Database** | **REST API**, **SQLite**, **Hive**, **Shared Preferences**, **Secure Storage** |
+| **Tools & Platforms** | **Git & GitHub**, **Figma**, **Postman**, **Azure DevOps**, **AI Tools** |
 
 </div>
 
