@@ -184,6 +184,7 @@ A selection of production applications I contributed to across fintech, logistic
       </ul>
       <p>
         <a href="https://play.google.com/store/apps/details?id=com.geexar.getadriver"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Download Geta Driver from Google Play"/></a>
+        <a href="https://apps.apple.com/us/app/g-driver/id6788644426"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Download Geta User from the App Store"/></a>
       </p>
     </td>
   </tr>
