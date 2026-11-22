@@ -54,6 +54,56 @@ My core philosophy is: **"Code with purpose, build with passion 🚀"**.
 
 A selection of production applications I contributed to across fintech, logistics, transportation, ride-hailing, marketplaces, e-commerce, and consumer utilities.
 
+
+---
+
+### 🎓 Educational
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>👨‍🏫 Core Team – SmartHub</h3>
+<p><em>An internal educational management platform for teachers and teaching assistants, streamlining academic operations, student management, attendance, and educational content.</em></p>
+<p><strong>🔧 Tech Stack:</strong> Flutter, Dart</p>
+<p><strong>✨ Key Features:</strong></p>
+<ul>
+<li>Organize student groups, subgroups, and physical or virtual sessions.</li>
+<li>Manage assignments, online exams, grading, and student progress.</li>
+<li>Access academic reports, attendance statistics, and session evaluations.</li>
+<li>Coordinate teaching assistants and manage staff responsibilities.</li>
+<li>Record student attendance and manage registrations and enrollments.</li>
+<li>Review assignment extension and student profile update requests.</li>
+<li>Complete operational checklists and submit required session reports.</li>
+<li>Communicate through announcements and an integrated messaging center.</li>
+</ul>
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.hkteam.teacher"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Core Team Google Play"></a>
+<a href="https://apps.apple.com/us/app/core-team-smarthub/id6812734640"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Core Team App Store"></a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>🎓 Hussein Khaled – Educational Platform</h3>
+<p><em>A comprehensive digital learning platform for students and parents, providing courses, online exams, assignments, live classes, and academic performance tracking.</em></p>
+<p><strong>🔧 Tech Stack:</strong> Flutter, Dart</p>
+<p><strong>✨ Key Features:</strong></p>
+<ul>
+<li>Access enrolled courses, recorded lessons, and PDF study materials.</li>
+<li>Take online exams and review graded submissions and results.</li>
+<li>Track upcoming, completed, and missed assignments with extension requests.</li>
+<li>Manage personal study tasks and browse the digital library.</li>
+<li>Attend scheduled live classes through Zoom integration.</li>
+<li>Monitor GPA, attendance percentages, exam scores, and assignment grades.</li>
+<li>Provide dedicated parent accounts to monitor children's academic progress.</li>
+<li>Receive announcements, notifications, and educational updates.</li>
+</ul>
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.hkteam.student"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Hussein Khaled Google Play"></a>
+<a href="https://apps.apple.com/us/app/hussein-khaled/id6812695424"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Hussein Khaled App Store"></a>
+</p>
+</td>
+</tr>
+</table>
+
 ---
 
 ### 💰 Fintech & Digital Wallet Solutions
